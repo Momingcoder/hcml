@@ -14,6 +14,6 @@ setup(
     keywords = ['filter', 'Hachi', 'plugin', 'meaningless'],
     classifiers = ['Topic :: Text Processing'],
     packages = find_packages(),
-    install_requires = [],
+    install_requires = ['jieba'],
     platform = ['Windows', 'Linux', 'Mac'],
 )
