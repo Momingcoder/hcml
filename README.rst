@@ -1,7 +1,9 @@
 hcml
 ===========
 
-A plugin for [Hachi](https://github.com/guokr/Hachi) to detect meaningless sentences.
+A plugin for Hachi_ to detect meaningless sentences.
+
+.. _Hachi: https://github.com/guokr/Hachi
 
 Usage
 ------
