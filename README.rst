@@ -21,6 +21,6 @@ Dependence
 Attention
 -----------
 
-You need to provide English Words in `./data/` .
+You need to provide English Words in ``./data/`` .
 
 Of course you can simply copy from this package.
