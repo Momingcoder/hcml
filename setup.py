@@ -4,7 +4,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name = 'hbml',
+    name = 'hcml',
     version = '0.0.1',
     description = 'A plugin for Hachi to detect meaningless sentences.',
     author = 'MomingCoder',
