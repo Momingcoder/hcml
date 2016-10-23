@@ -13,6 +13,13 @@ Usage
     > m = Meaningless()
     > m.predict(message)
 
+Configuration
+------------------
+
+::
+
+    > ('hcml', 'Meaningless()', 'meaningless')
+
 Dependence
 ------------
 
