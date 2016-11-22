@@ -1,6 +1,9 @@
 hcml
 ===========
 
+.. image:: https://travis-ci.org/Momingcoder/hcml.svg?branch=master
+    :target: https://travis-ci.org/Momingcoder/hcml
+
 A plugin for Hachi_ to detect meaningless sentences.
 
 .. _Hachi: https://github.com/guokr/Hachi

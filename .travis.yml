@@ -1,0 +1,11 @@
+language:
+    python
+
+python:
+    - "2.7"
+
+install:
+    - pip install jieba
+
+script:
+    python test_for_ml.py

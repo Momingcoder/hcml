@@ -2,7 +2,7 @@
 # coding=utf-8
 
 import unittest
-from meaningless import Meaningless
+from hcml.meaningless import Meaningless
 
 class MeaninglessTestCase(unittest.TestCase):
     """
